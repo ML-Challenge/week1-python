@@ -1,4 +1,4 @@
-# Machine Learning Challenge Week 1: Learnign Python
+# ML Challenge Week 1: Learning Python
 
 Python is one of the most widely used programming languages in the industry. It's a powerful, general-purpose language with applications ranging from web development to data science.
 
