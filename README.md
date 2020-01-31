@@ -13,3 +13,5 @@ Lessons:
 5. **Loops and List Comprehensions** - for and while loops, and a much-loved Python feature: list comprehensions
 6. **Strings and Dictionaries** - working with string and dictionaries, two fundamental Python data types
 7. **Working with External Libraries** - Imports, operator overloading, and survival tips for venturing into the world of external libraries.
+
+For more info see the ML Challenge page: [Week 1 - Python](https://radu-enuca.gitbook.io/ml-challenge/python/intro)
